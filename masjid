@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sultan Ahmad Masjid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sultan Ahmad Masjid</h1>
+</header>
+
+<main>
+    <img src="https://madainproject.com/content/media/collect/blue_mosque_6383.jpg" alt="Sultan Ahmad Masjid" />
+
+    <h2>About the Mosque</h2>
+    <p>
+        Sultan Ahmad Masjid, also known as the Blue Mosque, is one of the most famous landmarks in Istanbul, Turkey. It was built between 1609 and 1616 during the rule of Sultan Ahmed I. The mosque is renowned for its stunning architecture, beautiful blue tiles, and impressive domes.
+    </p>
+
+    <h2>Architectural Features</h2>
+    <p>
+        The mosque features a unique blend of Ottoman and Byzantine architecture. Its main dome is surrounded by eight smaller domes, and the interior is adorned with over 20,000 handmade ceramic tiles, mainly in shades of blue, hence the name "Blue Mosque."
+    </p>
+    
+    <h2>Visiting the Mosque</h2>
+    <p>
+        The Sultan Ahmad Masjid is open to visitors outside of prayer times. It is important to dress modestly and adhere to the mosque's guidelines for visitors. The serene atmosphere and beautiful surroundings make it a must-visit destination for anyone traveling to Istanbul.
+    </p>
+
+    <img src="https://madainproject.com/content/media/collect/blue_mosque_7738.jpg" alt="Interior of Sultan Ahmad Masjid" />
+</main>
+
+<footer>
+    <p>&copy; 2024 Sultan Ahmad Masjid Information</p>
+</footer>
+
+</body>
+</html>
